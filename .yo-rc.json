@@ -30,7 +30,7 @@
     ],
     "clientFramework": "react",
     "jhiPrefix": "jhi",
-    "jhipsterVersion": "5.8.1",
+    "jhipsterVersion": "5.8.2",
     "jwtSecretKey": "ZGFmZGFjNDhiNzk2M2E2ZDNkZWMxMDFhYTdhOTgyNDcxNDllY2QzMmI1NzZiYWQ0MjU3MTBlNjljY2IyNWY2MTVkMWYwZjQyOTBkNmYxYjdhYWYwMjEyNTRiZjA3OTE4MGU2NzE2YjU5Mzc3MWFiNTIyN2JmNjhjOGYyMWQ0N2E=",
     "entitySuffix": "",
     "dtoSuffix": "DTO",
